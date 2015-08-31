@@ -11,7 +11,7 @@ module.exports = {
     ]
   },
   entry: [
-    './index.js'
+    './components.js'
   ],
   output: {
     filename: 'bundle.js',
